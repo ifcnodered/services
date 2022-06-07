@@ -14,19 +14,15 @@
 <p> Get Node red from <a href="https://nodered.org/"> the official site </a> and install it on your computer</p>
 <p> Run node-red at port, say, 1880 </p>
 <p> Download this repo and from <i>.../services/flows/</i> dir, directly drag and drop the "flows" (json files) into your node-red canvas </p>
-
 <br>
 <h2> Run it on your computer </h2>
- 
 <br>
 <p> To run the node-red functions, except the viewer, we need to configure the filepath and url-port configs in the node-red flows </p>
 <p> Data files for demonstration are provided in the <i>services/data</i> file path </p>
-
 <h4> SPF to JSON </h4>
 <li> flow: <i>services/flows/spfconv.json</i>
 <li> ifc-spf demo file: <i>services/data/spf/wall_door.ifc</i></li>
 <li> url: <i> http://localhost:port/u1x/ </i>
-
 <h4> XML based validation </h4>
 <li> flow: <i>services/flows/xmlval.json</i>
 <li> demo files: </li>
@@ -35,7 +31,6 @@
   <li> xml file: <i>services/data/sch/medium.xml</i></li>
 </ol>
 <li> url: <i> http://localhost:port/u2x/ </i>
-
 <h4> JSON-LD </h4>
 <li> flow: <i>services/flows/ld_transform.json</i>
 <li> demo files: </li>
@@ -44,7 +39,6 @@
   <li> framing file: <i>services/data/ld/frame.json</i></li>
 </ol>
 <li> url: <i> http://localhost:port/u3x/ </i>
-  
 <h4> Browser based 3d-viewer </h4>
 <p> The 3d-viewer can be directly viewed - it takes ifc data from github and renders the building (duplex)</p>
 <li> drag and drop the flow: <i>services/flows/spfconv.json</i> on your node-red instance running on port, say, 1880</li>
