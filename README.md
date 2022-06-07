@@ -1,9 +1,10 @@
 <h2> Project </h2>
 <p>this project demonstrates services to <p>
   <ul>
-    <li>convert IFC-SPF to JSON</li>
-    <li>xml based validation using schematron</li>
-    <li>using linked-data algorithms to view the IFC </li>
+    <li> convert IFC-SPF to JSON </li>
+    <li> 3d-viewer to render the geometry on the browser </li>
+    <li> xml based validation using schematron </li>
+    <li> using linked-data algorithms to view the IFC </li>
 </ul>
 <br>
 <h2> Prepare your computer / environement </h2>
@@ -17,7 +18,7 @@
 <br>
 <h2> Run it on your computer </h2>
 <p> Overall to run the node-red functions, we need to fix the filepath and url-port configs in the node-red flows </p>
-<p> Demo files are provided in the <i>node-red/data</i> file path </p>
+<p> Data files for demonstration are provided in the <i>services/data</i> file path </p>
 
 <h4> SPF to JSON </h4>
 <li> flow: <i>services/flows/spfconv.json</i>
