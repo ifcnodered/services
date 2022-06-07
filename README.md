@@ -17,7 +17,8 @@
 
 <br>
 <h2> Run it on your computer </h2>
-<p> Overall to run the node-red functions, we need to fix the filepath and url-port configs in the node-red flows </p>
+<p> The 3d-viewer can be directly viewed </p>
+<p> To run the other node-red functions, we need to configure the filepath and url-port configs in the node-red flows </p>
 <p> Data files for demonstration are provided in the <i>services/data</i> file path </p>
 
 <h4> SPF to JSON </h4>
