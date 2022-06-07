@@ -6,7 +6,7 @@
     <li>using linked-data algorithms to view the IFC </li>
 </ul>
 <br>
-<h2> Run it on your computer </h2>
+<h2> Prepare your computer / environement </h2>
 <p> There are two parts: backend using docker containers and client as node-red flows, provided in this repository</p>
 <p> Get the docker container <a href="https://hub.docker.com/repository/docker/nirvik00/ifcproj"> at the docker hub link</a> along with directions and overview </p>
 <p> Get Node red from <a href="https://nodered.org/"> the official site </a> and install it on your computer</p>
@@ -14,6 +14,7 @@
 <p> Download this repo and from <i>.../services/flows/</i> dir, directly drag and drop the "flows" (json files) into your node-red canvas </p>
 <p> Start the docker container as per instructions in the docker-hub site above and note the ports </p>
 <br>
+<h2> Run it on your computer </h2>
 <p> Overall to run the node-red functions, we need to fix the filepath and url-port configs in the node-red flows </p>
 <p> Demo files are provided in the <i>node-red/data</i> file path </p>
 
