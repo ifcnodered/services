@@ -41,6 +41,6 @@
 <li> url: <i> http://localhost:port/u3x/ </i>
 <h4> Browser based 3d-viewer </h4>
 <p> The 3d-viewer can be directly viewed - it takes ifc data from github and renders the building (duplex)</p>
-<li> drag and drop the flow: <i>services/flows/spfconv.json</i> on your node-red instance running on port, say, 1880</li>
+<li> drag and drop the flow: <i>services/flows/viewer.json</i> on your node-red instance running on port, say, 1880</li>
 <li> open a new tab on your browser and go to url: <i> http://localhost:1880/x/</i></p>
 <li> the ifc data is connected to a Github (remote) end point </li>
