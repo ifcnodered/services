@@ -31,5 +31,9 @@
 
 <h4> JSON-LD </h4>
 <li> flow: <i>services/flows/ld_transform.json</i>
-<li> demo file: <i>services/data/ls/wall_door.ifc</i></li>
+<li> demo file: </li>
+<ol>
+  <li> document file : <i> services/data/ld/doc.json</i> </li>    
+  <li> framing file: <i>services/data/ld/frame.json</i></li>
+</ol>
 <li> url: <i> http://localhost:port/u3x/ </i>
