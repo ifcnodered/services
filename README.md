@@ -2,7 +2,7 @@
 <a href> Get Node red from </a>
 
 <h2> Backend: Docker  </h2>
-<p><a href="https://hub.docker.com/repository/docker/nirvik00/ifcproj">Get the docker container</a><p>
+<p>Get the docker container<a href="https://hub.docker.com/repository/docker/nirvik00/ifcproj">at the docker hub link</a> along with directions and overview<p>
 
 
 
