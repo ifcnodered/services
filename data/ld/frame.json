@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "http://bsi.org/ifc/4x3/",
+    "@base": "http://myfile.org/ids/",
+    "id_ref": "@id",
+    "data": "@graph",
+    "type": "@type",
+    "globalId": "@id"
+  },
+  "@type": ["IfcProject","IfcSite","IfcBuilding", "IfcWallStandardCase", "IfcDoor", "IfcRelAggregates"],
+  	"@explicit": true,
+  "@requireAll": false,
+  "@null":false,
+  "name":{
+    "@explicit": true,
+    "@omitDefault":true
+  },
+  "decomposes":{
+  	"@explicit": true,
+    "@omitDefault":true
+	},
+   "isDecomposedBy":{
+    "@explicit": true,
+     "@omitDefault":true
+  },
+  "relatedObjects":{
+    "@explicit": true,
+    "@omitDefault":true
+  },
+  "relatingObjects":{
+    "@explicit": true,
+    "@omitDefault":true
+  }
+}
