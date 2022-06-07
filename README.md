@@ -17,7 +17,7 @@
 
 <br>
 <h2> Run it on your computer </h2>
-<h4> 3d-viewer on browser </h4>
+<h4> Browser based 3d-viewer </h4>
 <p> The 3d-viewer can be directly viewed - it takes ifc data from github and renders the building (duplex)</p>
 <li> drg and drop the flow: <i>services/flows/spfconv.json</i> on your node-red instance running on port, say, 1880</li>
 <li> open a new tab on your browser and go to url: <i> http://localhost:1880/x/</i></p>
