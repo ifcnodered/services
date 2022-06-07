@@ -24,7 +24,7 @@
 <li> ifc-spf demo file: <i>services/data/spf/wall_door.ifc</i></li>
 <li> url: <i> http://localhost:port/u1x/ </i>
 
-<h4> xml Based validation </h4>
+<h4> XML based validation </h4>
 <li> flow: <i>services/flows/xmlval.json</i>
 <li> demo files: </li>
 <ol>
