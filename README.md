@@ -11,7 +11,7 @@
 <br>
 <p> Get the docker container <a href="https://hub.docker.com/repository/docker/nirvik00/ifcproj"> at the docker hub link</a> along with directions and overview </p>
 <br>
-<p> Get Node red from <a href="https://nodered.org/"> the official site </a> </p>
-<p> With node-red installed, download this repository and run node-red at port, say, 1880 </p>
-<p> From <i>node-red/flows/</i> dir, directly drag and drop the "flows" (json files) into your node-red canvas </p>
+<p> Get Node red from <a href="https://nodered.org/"> the official site </a> and install it on your computer</p>
+<p> Run node-red at port, say, 1880 </p>
+<p> Download this repo and from <i>.../node-red/flows/</i> dir, directly drag and drop the "flows" (json files) into your node-red canvas </p>
 
