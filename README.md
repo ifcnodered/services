@@ -26,12 +26,16 @@
 
 <h4> xml Based validation </h4>
 <li> flow: <i>services/flows/xmlval.json</i>
-<li> ifc-spf demo file: <i>services/data/spf/wall_door.ifc</i></li>
+<li> demo files: </li>
+<ol>
+  <li> schema file : <i> services/data/sch/medium.sch</i> </li>    
+  <li> xml file: <i>services/data/sch/medium.xml</i></li>
+</ol>
 <li> url: <i> http://localhost:port/u2x/ </i>
 
 <h4> JSON-LD </h4>
 <li> flow: <i>services/flows/ld_transform.json</i>
-<li> demo file: </li>
+<li> demo files: </li>
 <ol>
   <li> document file : <i> services/data/ld/doc.json</i> </li>    
   <li> framing file: <i>services/data/ld/frame.json</i></li>
