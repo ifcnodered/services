@@ -3,7 +3,7 @@
   <ul>
     <li>convert IFC-SPF to JSON</li>
     <li>xml based validation using schematron</li>
-    <li>
+    <li>using linked-data algorithms to view the IFC </li>
 </ul>
 
 <h2> Node-red </h2>
