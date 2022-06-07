@@ -17,7 +17,11 @@
 
 <br>
 <h2> Run it on your computer </h2>
+<h4> 3d-viewer on browser </h4>
 <p> The 3d-viewer can be directly viewed </p>
+<p> </p>
+  
+<br>
 <p> To run the other node-red functions, we need to configure the filepath and url-port configs in the node-red flows </p>
 <p> Data files for demonstration are provided in the <i>services/data</i> file path </p>
 
