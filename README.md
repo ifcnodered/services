@@ -1,5 +1,4 @@
 <h2> Project </h2>
-<p> Follow my <a href="https://www.youtube.com/watch?v=uN1qRCaZXWE&t=3s"> Youtube Tutorial </a> step by step </p>
 <p>this project demonstrates services to <p>
   <ul>
     <li> convert IFC-SPF to JSON </li>
@@ -7,6 +6,8 @@
     <li> xml based validation using schematron </li>
     <li> using linked-data algorithms to view the IFC </li>
 </ul>
+<br>
+<h4> Follow my <a href="https://www.youtube.com/watch?v=uN1qRCaZXWE&t=3s"> Youtube Tutorial </a> step by step </h4>
 <br>
 <h2> Prepare your computer / environment </h2>
 <p> There are two parts: backend using docker containers and client as node-red flows, provided in this repository</p>
